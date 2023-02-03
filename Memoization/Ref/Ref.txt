@@ -1,0 +1,7 @@
+﻿¿Qué diablos es la Memoization? Programación Avanzada en C# .Net 
+https://www.youtube.com/watch?v=XHzuC-xLwcg
+
+Concluiones:
+* La memorizacion se utiliza cuando tenemos una funcion pura (siempre devuelve el mismo resultado pasandole los mismos parametros) que se manda a llamar varias veces
+  (muchas veces, millones de veces) para guardar en memoria (RAM) informacion solicitada que se repite mucho, con el objetivo de mejorar la velocidad (performance)
+  de ejecucion de la misma funcion.
